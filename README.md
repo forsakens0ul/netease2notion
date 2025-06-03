@@ -10,7 +10,7 @@
 
 ## 第一步（不方便演示，dddd）
 
-请你在github上自行搜索获取个人帐号json文件的方式
+请你在github上自行搜索cookie获取个人帐号json文件的方式
 
 大概能用的方式有：
 
@@ -25,6 +25,7 @@ GET /user/playlist?uid=xxxx 获取用户的歌单
 GET /playlist/detail?id=xxxx 获取歌单详情（歌曲列表）
 
 得到对应的json文件
+
 
 ## 第二步（json转csv导入notion）
 
