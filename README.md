@@ -1,11 +1,12 @@
 <aside>
-😀 赛博手账制作碎片
+😀 同步网易云歌单/记录到notion
 
 </aside>
 
 # 📝 效果展示
 
-![image.png](attachment:ed14fb1b-518d-44b8-9af6-dfc6897acb24:image.png)
+![image](https://github.com/user-attachments/assets/8524165e-848d-4600-959f-9ace25162658)
+
 
 ## 第一步（不方便演示，dddd）
 
@@ -29,33 +30,36 @@ GET /playlist/detail?id=xxxx 获取歌单详情（歌曲列表）
 
 仓库中有两个.py文件供参考，得到带表头的csv文件
 
-![image.png](attachment:f588edc3-c720-44ee-b4cb-abc1044c9c7a:image.png)
+![image](https://github.com/user-attachments/assets/ee21f561-9399-4d95-a810-97d9f6e24ada)
 
 你可以复制我的模板，也可以新建一个画廊
 
-[https://www.notion.so/2023a17d9c21815a8f78cff14dd7e9f6?v=2023a17d9c2181a9aabc000ce8255902&source=copy_link](https://www.notion.so/2023a17d9c21815a8f78cff14dd7e9f6?pvs=21)
+![image](https://github.com/user-attachments/assets/2551475e-ba73-441a-8f7d-50e6469089a3)
 
-![image.png](attachment:822aab04-3b78-40fc-aa87-278d1741e25f:image.png)
-
-![image.png](attachment:95fbb661-da09-4fa7-9705-e2ac93b6c37b:image.png)
-
+![image](https://github.com/user-attachments/assets/03961c34-c466-493b-82cf-b5a114b80890)
 右上角导入——csv（UTF-8,否则会乱码）
 
-![image.png](attachment:f584b402-7883-46e0-a201-ec1c28b8fa57:image.png)
+![image](https://github.com/user-attachments/assets/492f5df5-b075-435d-8681-d2b1a992f5bb)
+
+
+
 
 ## 第三步（调整和展示）
 
-![image.png](attachment:dde677ac-fbab-49df-828e-51e48b0a450c:image.png)
+![image](https://github.com/user-attachments/assets/57b8cf18-d2c3-4013-81b3-c623a4403509)
+
 
 这时候你会发现不现实封面，点击“属性”——“封面”，修改为“媒体和文件”
 
 并在“布局”——“卡片预览”替换成封面这个属性。
 
-![image.png](attachment:cffa2977-b07a-4e1a-97a6-fc13bc321a07:image.png)
+![image](https://github.com/user-attachments/assets/49d703da-49ed-47a4-99e7-ea652c443cf2)
+
 
  通过 显示/隐藏属性、自定义属性，来调整你想展示的内容
 
-![image.png](attachment:070da14a-1760-4124-b265-de8cc83fec87:image.png)
+![image](https://github.com/user-attachments/assets/a2507fe3-a3b2-409f-9944-0281080e23e8)
+
 
 notion无法展示属性名，只会展示属性的内容，这时候你可以新建属性——函数
 
@@ -66,13 +70,13 @@ notion无法展示属性名，只会展示属性的内容，这时候你可以�
 
 最终结果。
 
-![image.png](attachment:ed14fb1b-518d-44b8-9af6-dfc6897acb24:image.png)
+![image](https://github.com/user-attachments/assets/8524165e-848d-4600-959f-9ace25162658)
 
 # 🤗 总结归纳
 
 可以通过复制notion数据库页面的分享链接粘贴到其他数据库页面，会自动引用（不要用复制粘贴）
 
-![image.png](attachment:31992585-9c75-4de3-b1b0-d5f8403a4074:image.png)
+![image](https://github.com/user-attachments/assets/06eb1b1d-7e6f-4d9d-90bb-2bf8ff09ba46)
 
 <aside>
 💡 有关Notion安装或者使用上的问题，欢迎您在底部评论区留言，一起交流~
