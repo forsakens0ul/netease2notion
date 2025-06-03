@@ -41,6 +41,7 @@ GET /playlist/detail?id=xxxx 获取歌单详情（歌曲列表）
 ![image](https://github.com/user-attachments/assets/2551475e-ba73-441a-8f7d-50e6469089a3)
 
 ![image](https://github.com/user-attachments/assets/03961c34-c466-493b-82cf-b5a114b80890)
+
 右上角导入——csv（UTF-8,否则会乱码）
 
 ![image](https://github.com/user-attachments/assets/492f5df5-b075-435d-8681-d2b1a992f5bb)
@@ -53,9 +54,9 @@ GET /playlist/detail?id=xxxx 获取歌单详情（歌曲列表）
 ![image](https://github.com/user-attachments/assets/57b8cf18-d2c3-4013-81b3-c623a4403509)
 
 
-这时候你会发现不现实封面，点击“属性”——“封面”，修改为“媒体和文件”
+这时候你会发现不显示封面，需要点击“属性”——“封面”，修改为“媒体和文件”
 
-并在“布局”——“卡片预览”替换成封面这个属性。
+并在“布局”——“卡片预览”替换成“封面”这个属性。
 
 ![image](https://github.com/user-attachments/assets/49d703da-49ed-47a4-99e7-ea652c443cf2)
 
