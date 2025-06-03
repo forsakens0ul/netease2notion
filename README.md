@@ -1,5 +1,6 @@
 <aside>
-😀 同步网易云歌单/记录到notion
+ 
+😀 同步网易云到notion
 
 </aside>
 
