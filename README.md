@@ -2,9 +2,12 @@
 
 # 📝 效果展示
 
-https://garnet-scarer-ec7.notion.site/2033a17d9c2180a9a50bf2226f9c42ef?v=2033a17d9c2181f9aeb1000ccd927682&pvs=74
-<br>
+
+
 https://www.chalice.lol/essay/1f93a17d-9c21-8169-baa5-c65aff1c6b6c
+<br>
+<br>
+https://garnet-scarer-ec7.notion.site/2033a17d9c2180a9a50bf2226f9c42ef?v=2033a17d9c2181f9aeb1000ccd927682&pvs=74
 ![image](https://github.com/user-attachments/assets/8524165e-848d-4600-959f-9ace25162658)
 
 
