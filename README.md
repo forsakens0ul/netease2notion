@@ -1,4 +1,12 @@
 <h1 style="font-size: 2em;">😀 同步网易云到 Notion</h1>
+---
+
+<img width="324" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a574c733-e505-41a8-a210-ec7444dfd7a5" />
+![wechatQR](https://github.com/user-attachments/assets/fd25cfc1-e745-4f97-aaaa-32d156d127ce)
+
+---
+点个关注喵😸 永雏塔菲谢谢你喵😽
+
 
 # 📝 效果展示
 
