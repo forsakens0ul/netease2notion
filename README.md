@@ -1,8 +1,8 @@
 <h1 style="font-size: 2em;">😀 同步网易云到 Notion</h1>
----
 
-<img width="324" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a574c733-e505-41a8-a210-ec7444dfd7a5" />
-<img width="324" alt="微信图片" src="https://raw.githubusercontent.com/forsakens0ul/image/refs/heads/main/wechatQR.jpg" />
+
+<img width="200" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a574c733-e505-41a8-a210-ec7444dfd7a5" />
+<img width="200" alt="微信图片" src="https://raw.githubusercontent.com/forsakens0ul/image/refs/heads/main/wechatQR.jpg" />
 
 
 ---
