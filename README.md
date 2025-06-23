@@ -2,7 +2,7 @@
 ---
 
 <img width="324" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a574c733-e505-41a8-a210-ec7444dfd7a5" />
-![wechatQR](https://github.com/user-attachments/assets/9a5879fa-7719-40de-af30-0f2433bc679c)
+https://raw.githubusercontent.com/forsakens0ul/image/refs/heads/main/wechatQR.jpg
 
 
 ---
