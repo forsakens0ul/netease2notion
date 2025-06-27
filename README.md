@@ -1,17 +1,13 @@
 <h1 style="font-size: 2em;">😀 同步网易云到 Notion</h1>
 
-
-<img width="200" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a574c733-e505-41a8-a210-ec7444dfd7a5" /><img width="200" alt="微信图片" src="https://raw.githubusercontent.com/forsakens0ul/image/refs/heads/main/wechatQR.jpg" />
-
-
 ---
+![wechatQR](https://github.com/user-attachments/assets/eed84d09-ad05-42de-aa45-f9364cc92ec4)|<img width="324" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a1c83350-84ab-4a10-a047-fb7d5008fd8f" />
+
+
+
 点个关注喵😸 永雏塔菲谢谢你喵😽
-
-
-
 ---
-
-## ☕️ 如果你觉得这个项目对你有帮助，可以请我喝杯咖啡～
+## ☕ 如果你觉得这个项目对你有帮助，可以请我喝杯咖啡～
 ## ⚡ 此项目完全开源，仅作为感谢/打赏，不构成购买义务。～
 
 微信 | 支付宝
