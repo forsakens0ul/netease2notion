@@ -1,4 +1,8 @@
 <h1 style="font-size: 2em;">😀 同步网易云到 Notion</h1>
+---
+声明：请遵守互联网个人信息使用道德和规范，尊重网易云公司合法利益，不要重复多次使用‘’下载csv‘’功能频繁访问。此插件为便利新手交流学习而制作，不得进行任何二次修改、收费和分发。
+https://github.com/forsakens0ul/netease2notion
+## ⚡ 此项目完全开源，仅作为感谢/打赏，不构成购买义务。～
 
 ---
 ![wechatQR](https://github.com/user-attachments/assets/eed84d09-ad05-42de-aa45-f9364cc92ec4)|<img width="324" alt="微信图片_20250620101556" src="https://github.com/user-attachments/assets/a1c83350-84ab-4a10-a047-fb7d5008fd8f" />
@@ -8,7 +12,7 @@
 点个关注喵😸 永雏塔菲谢谢你喵😽
 ---
 ## ☕ 如果你觉得这个项目对你有帮助，可以请我喝杯咖啡～
-## ⚡ 此项目完全开源，仅作为感谢/打赏，不构成购买义务。～
+
 
 微信 | 支付宝
 :--:|:--:
